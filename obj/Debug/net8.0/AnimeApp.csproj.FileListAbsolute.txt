@@ -1,0 +1,14 @@
+E:\Problems_Solver_Bootcamp\VS_projects\AnimeApp\bin\Debug\net8.0\AnimeApp.exe
+E:\Problems_Solver_Bootcamp\VS_projects\AnimeApp\bin\Debug\net8.0\AnimeApp.deps.json
+E:\Problems_Solver_Bootcamp\VS_projects\AnimeApp\bin\Debug\net8.0\AnimeApp.runtimeconfig.json
+E:\Problems_Solver_Bootcamp\VS_projects\AnimeApp\bin\Debug\net8.0\AnimeApp.dll
+E:\Problems_Solver_Bootcamp\VS_projects\AnimeApp\bin\Debug\net8.0\AnimeApp.pdb
+E:\Problems_Solver_Bootcamp\VS_projects\AnimeApp\obj\Debug\net8.0\AnimeApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problems_Solver_Bootcamp\VS_projects\AnimeApp\obj\Debug\net8.0\AnimeApp.AssemblyInfoInputs.cache
+E:\Problems_Solver_Bootcamp\VS_projects\AnimeApp\obj\Debug\net8.0\AnimeApp.AssemblyInfo.cs
+E:\Problems_Solver_Bootcamp\VS_projects\AnimeApp\obj\Debug\net8.0\AnimeApp.csproj.CoreCompileInputs.cache
+E:\Problems_Solver_Bootcamp\VS_projects\AnimeApp\obj\Debug\net8.0\AnimeApp.dll
+E:\Problems_Solver_Bootcamp\VS_projects\AnimeApp\obj\Debug\net8.0\refint\AnimeApp.dll
+E:\Problems_Solver_Bootcamp\VS_projects\AnimeApp\obj\Debug\net8.0\AnimeApp.pdb
+E:\Problems_Solver_Bootcamp\VS_projects\AnimeApp\obj\Debug\net8.0\AnimeApp.genruntimeconfig.cache
+E:\Problems_Solver_Bootcamp\VS_projects\AnimeApp\obj\Debug\net8.0\ref\AnimeApp.dll
